@@ -1,6 +1,4 @@
 ```ruby
-
-
 RSpec.describe Integration do
 it "gets all diary entries" do
 diary_entry1 = DiaryEntry.new("my_title1", "my_content1")
